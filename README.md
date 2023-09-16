@@ -18,16 +18,8 @@ This repository contains a comprehensive analysis of World Happiness Data, explo
 **Conclusion**
 This repository provides a comprehensive exploration of World Happiness Data, offering valuable insights into the factors influencing happiness, regional variations, and year-wise comparisons. It serves as a resource for anyone interested in understanding global happiness trends.
 
-**Contributors**
-- [Your Name]
-- [Other Contributors, if applicable]
 
-**License**
-This project is licensed under the [License Name, e.g., MIT License].
 
-**Acknowledgments**
-We acknowledge [any data sources, libraries, or tools] used in this analysis.
 
-**Note**
-Please refer to individual task folders for code, data, and detailed analysis related to each specific task.
+
 
